@@ -1,0 +1,17 @@
+.content {
+    background-color: #f2d492;
+    width: 100vw;
+    height: 90vh;
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 70vw;
+}
+
+.profile-img {
+    margin-top: 30px;
+}

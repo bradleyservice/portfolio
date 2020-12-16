@@ -1,0 +1,19 @@
+.header {
+    background-color: #283845;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 2px solid white;
+    font-family: 'Major Mono Display', monospace;
+    height: 15vh;
+}
+
+
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    min-width: 350px;
+    font-weight: 600;
+}
