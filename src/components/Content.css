@@ -1,7 +1,7 @@
 .content {
     background-color: #f2d492;
     width: 100vw;
-    height: 90vh;
+    height: 100%;
 }
 
 .about {
@@ -9,7 +9,8 @@
     align-items: center;
     justify-content: space-around;
     margin: 0 auto;
-    width: 70vw;
+    width: 80vw;
+    font-family: 'Poppins', sans-serif;
 }
 
 .profile-img {
